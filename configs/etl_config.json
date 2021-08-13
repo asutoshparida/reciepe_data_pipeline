@@ -1,0 +1,12 @@
+{
+  "awsAccessKeyId": "213123asdasdfaedf",
+  "awsSecretAccessKey": "sdfsdf2341234134",
+  "input_data_path" : "../input/",
+  "output_data_path" : "../output",
+  "parquet_file_location": "../processed-data/recipe.parquet",
+  "db_user": "postgres",
+  "db_host": "127.0.0.1",
+  "db_pass": "1@ni",
+  "db_port": "5432",
+  "db_schema": "hellofresh"
+}
